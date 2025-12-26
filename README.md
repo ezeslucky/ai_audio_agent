@@ -1,7 +1,5 @@
 # 🎧 Self-Guided AI Audio Tour Agent
 
-### 🎓 FREE Step-by-Step Tutorial 
-**👉 [Click here to follow our complete step-by-step tutorial](https://www.theunwindai.com/p/build-a-self-guided-ai-audio-tour-agent) and learn how to build this from scratch with detailed code walkthroughs, explanations, and best practices.**
 
 A conversational voice agent system that generates immersive, self-guided audio tours based on the user’s **location**, **areas of interest**, and **tour duration**. Built on a multi-agent architecture using OpenAI Agents SDK, real-time information retrieval, and expressive TTS for natural speech output.
 
@@ -53,8 +51,8 @@ A conversational voice agent system that generates immersive, self-guided audio 
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd ai_agent_tutorials/ai_audio_tour_agent
+git clone https://github.com/ezeslucky/ai_audio_agent.git
+cd ai_audio_agent
 ```
 2. Install the required dependencies:
 
